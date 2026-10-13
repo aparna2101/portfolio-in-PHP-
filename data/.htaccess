@@ -1,0 +1,5 @@
+# Deny all direct web access to inquiry records
+<Files "messages.json">
+    Order Allow,Deny
+    Deny from all
+</Files>
