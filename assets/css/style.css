@@ -930,11 +930,12 @@ h1, h2, h3, h4, h5, h6 {
 .skill-chip {
   background: rgba(255, 255, 255, 0.03);
   border: 1px solid var(--border-light);
-  padding: 0.75rem 1rem;
+  padding: 0.85rem 1.15rem;
   border-radius: var(--radius-md);
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
+  gap: 0.85rem;
   transition: all var(--transition-fast);
 }
 
@@ -948,6 +949,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   align-items: center;
   gap: 0.75rem;
+  width: 100%;
 }
 
 .skill-icon {
@@ -962,10 +964,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .skill-badge {
-  font-size: 0.75rem;
-  font-weight: 700;
-  color: #a5b4fc;
-  font-family: var(--font-mono);
+  display: none !important;
 }
 
 /* Experience Timeline */

@@ -13,7 +13,7 @@ return [
     'location' => 'Varanasi, Uttar Pradesh, India',
     'phone' => '+91-7985584351',
     'email' => 'aparna2112003@gmail.com',
-    'linkedin' => 'https://www.linkedin.com/in/aparna-chaurasia-043594247',
+    'linkedin' => 'https://www.linkedin.com/in/aparna-chaurasia-7abb912b0',
     'github' => 'https://github.com/aparna2101',
     'whatsapp' => 'https://wa.me/917985584351',
     'resume_path' => 'assets/Aparna_Chaurasia_Resume.pdf',
@@ -182,7 +182,7 @@ return [
             'location' => 'Varanasi, Uttar Pradesh',
             'period' => '2021 - 2025',
             'score' => 'CGPA: 7.22',
-            'highlights' => 'Specialized in Data Structures, Web Engineering, Database Management Systems, and Software Engineering methodologies.'
+            'highlights' => 'Specialized in Web Engineering, Database Management Systems, and Software Engineering methodologies.'
         ]
     ]
 ];

@@ -296,7 +296,6 @@ $location = htmlspecialchars($config['location'] ?? 'Varanasi, UP, India');
                                             <i class="<?= $skill['icon'] ?> skill-icon"></i>
                                             <span class="skill-name"><?= $skill['name'] ?></span>
                                         </div>
-                                        <span class="skill-badge"><?= $skill['level'] ?></span>
                                     </div>
                                 <?php endforeach; ?>
                             </div>
