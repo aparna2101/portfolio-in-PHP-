@@ -25,10 +25,10 @@ return [
         'host'         => 'smtp.gmail.com',
         'port'         => 465,                          // 465 for SSL, 587 for TLS
         'encryption'   => 'ssl',
-        'username'     => 'aparna2101210103@gmail.com',
+        'username'     => 'aparnachaurasia210103@gmail.com',
         'password'     => 'uxgs iiym zwkr yhqt',        // Google App Password
         'from_name'    => 'Portfolio Contact Form',
-        'to_email'     => 'aparna2101210103@gmail.com', // Form submissions arrive here
+        'to_email'     => 'aparnachaurasia210103@gmail.com', // Form submissions arrive here
     ],
 
     // Stats / Key Metrics

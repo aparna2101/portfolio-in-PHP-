@@ -7,7 +7,7 @@
 $config = require __DIR__ . '/config.php';
 $name = htmlspecialchars($config['name'] ?? 'Aparna Chaurasia');
 $title = htmlspecialchars($config['title'] ?? 'Full Stack Developer');
-$email = htmlspecialchars($config['email'] ?? 'aparna2101210103@gmail.com');
+$email = htmlspecialchars($config['email'] ?? 'aparna2112003@gmail.com');
 $phone = htmlspecialchars($config['phone'] ?? '+91-7985584351');
 $location = htmlspecialchars($config['location'] ?? 'Varanasi, UP, India');
 ?>
